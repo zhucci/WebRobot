@@ -1,2 +1,2 @@
 # WebRobot
-Project taget to solve new event seach in the internet.
+Project targets to solve new event seach in the internet.
